@@ -1,0 +1,11 @@
+{
+  "name": "project-productivity",
+  "displayName": "项目协作",
+  "version": "1.0.0",
+  "description": "整理会议决定与行动项，拆解目标、依赖和交付计划。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "productivity"
+}

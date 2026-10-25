@@ -1,0 +1,3 @@
+interface:
+  display_name: "SQL 查询"
+  default_prompt: "根据这些表结构编写 SQL，并解释连接关系、过滤条件和校核方法。"

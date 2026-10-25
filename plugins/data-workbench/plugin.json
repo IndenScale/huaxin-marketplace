@@ -1,0 +1,11 @@
+{
+  "name": "data-workbench",
+  "displayName": "数据分析",
+  "version": "1.0.0",
+  "description": "探索数据、核对口径，完成统计、SQL、图表与交互看板。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "data"
+}

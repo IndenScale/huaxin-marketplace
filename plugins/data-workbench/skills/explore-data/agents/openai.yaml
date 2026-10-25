@@ -1,0 +1,3 @@
+interface:
+  display_name: "数据探索"
+  default_prompt: "检查这份数据的结构和质量，列出适合继续分析的问题。"

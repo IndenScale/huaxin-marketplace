@@ -1,0 +1,3 @@
+interface:
+  display_name: "协作文档"
+  default_prompt: "根据这些资料起草文档，检查读者能否独立理解并采取下一步行动。"

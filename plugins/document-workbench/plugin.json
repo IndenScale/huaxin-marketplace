@@ -1,0 +1,11 @@
+{
+  "name": "document-workbench",
+  "displayName": "文档与研究",
+  "version": "1.0.0",
+  "description": "从资料研究与需求分析到协作出稿、文档审阅，形成完整交付。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "documents"
+}

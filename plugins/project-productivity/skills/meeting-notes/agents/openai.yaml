@@ -1,0 +1,3 @@
+interface:
+  display_name: "会议纪要"
+  default_prompt: "将这份会议记录整理成纪要，提取决定、行动项和待确认问题。"

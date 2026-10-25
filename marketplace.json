@@ -1,0 +1,41 @@
+{
+  "name": "华信官方插件市场",
+  "owner": {
+    "name": "华信"
+  },
+  "plugins": [
+    {
+      "name": "data-workbench",
+      "displayName": "数据分析",
+      "description": "探索数据、核对口径，完成统计、SQL、图表与交互看板。",
+      "version": "1.0.0",
+      "category": "data",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/data-workbench"
+    },
+    {
+      "name": "document-workbench",
+      "displayName": "文档与研究",
+      "description": "从资料研究与需求分析到协作出稿、文档审阅，形成完整交付。",
+      "version": "1.0.0",
+      "category": "documents",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/document-workbench"
+    },
+    {
+      "name": "project-productivity",
+      "displayName": "项目协作",
+      "description": "整理会议决定与行动项，拆解目标、依赖和交付计划。",
+      "version": "1.0.0",
+      "category": "productivity",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/project-productivity"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+interface:
+  display_name: "分析结果校核"
+  default_prompt: "校核这份分析，定位计算、口径和结论中需要修订的地方。"

@@ -1,0 +1,14 @@
+{
+  "name": "huaxin-marketplace",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "华信 Agent 官方插件市场",
+  "scripts": {
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,3 @@
+interface:
+  display_name: "交互看板"
+  default_prompt: "将这份数据整理成可筛选的交互看板，包含指标、趋势和明细。"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "文档审阅"
+  default_prompt: "审阅这份文档，找出影响理解和执行的问题，并给出具体修改建议。"
