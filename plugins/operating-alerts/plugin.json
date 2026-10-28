@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "operating-alerts",
+  "displayName": "经营指标分析与预警",
+  "version": "0.1.0",
+  "description": "按明确公式与阈值计算指定经营指标，定位无法计算项和触发预警。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "data",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "经营指标分析与预警",
+        "shortDescription": "按明确公式与阈值计算指定经营指标，定位无法计算项和触发预警。",
+        "capabilities": []
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "慧作业填报准备"
+  short_description: "对指定表单建立字段映射，检查必填、类型、枚举和范围，生成确认预览。"
+  default_prompt: "使用 $prepare-hui-form 按已确认的慧作业表单规则准备填报内容，列出字段校验结果与来源。"

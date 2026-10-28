@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ledger-updates",
+  "displayName": "综合台账更新预览",
+  "version": "0.1.0",
+  "description": "按事项主键整理台账新增与更新建议，保留差异、冲突和字段来源。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "productivity",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "综合台账更新预览",
+        "shortDescription": "按事项主键整理台账新增与更新建议，保留差异、冲突和字段来源。",
+        "capabilities": []
+      }
+    }
+  }
+}

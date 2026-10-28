@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "delivery-readiness",
+  "displayName": "数据中心交付资料齐套检查",
+  "version": "0.1.0",
+  "description": "按一个交付阶段的约定清单检查资料、修订与登记状态。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "engineering",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "数据中心交付资料齐套检查",
+        "shortDescription": "按一个交付阶段的约定清单检查资料、修订与登记状态。",
+        "capabilities": []
+      }
+    }
+  }
+}

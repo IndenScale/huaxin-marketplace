@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hui-form-preparation",
+  "displayName": "慧作业填报准备",
+  "version": "0.1.0",
+  "description": "对指定表单建立字段映射，检查必填、类型、枚举和范围，生成确认预览。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "productivity",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "慧作业填报准备",
+        "shortDescription": "对指定表单建立字段映射，检查必填、类型、枚举和范围，生成确认预览。",
+        "capabilities": []
+      }
+    }
+  }
+}

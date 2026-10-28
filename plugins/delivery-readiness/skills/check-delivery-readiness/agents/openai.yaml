@@ -1,0 +1,4 @@
+interface:
+  display_name: "数据中心交付资料齐套检查"
+  short_description: "按一个交付阶段的约定清单检查资料、修订与登记状态。"
+  default_prompt: "使用 $check-delivery-readiness 按已确认清单核对一个交付阶段的资料，列出缺项与下一步动作。"

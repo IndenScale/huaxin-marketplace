@@ -1,0 +1,47 @@
+{
+  "schema": "huaxin-workshop-input/1",
+  "group": "G1",
+  "fixture": false,
+  "scope": "",
+  "sources": [
+    {
+      "id": "",
+      "title": "",
+      "version": "",
+      "text": ""
+    }
+  ],
+  "profession": "",
+  "fields": [
+    {
+      "key": "",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "",
+      "name": "",
+      "records": [
+        {
+          "key": "",
+          "values": {},
+          "units": {},
+          "evidence": {}
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "records": [
+        {
+          "key": "",
+          "values": {},
+          "units": {},
+          "evidence": {}
+        }
+      ]
+    }
+  ]
+}

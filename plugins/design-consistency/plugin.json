@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "design-consistency",
+  "displayName": "设计文档一致性核对",
+  "version": "0.1.0",
+  "description": "按明确字段核对两类设计文档，定位差异、缺项与单位冲突。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "engineering",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "设计文档一致性核对",
+        "shortDescription": "按明确字段核对两类设计文档，定位差异、缺项与单位冲突。",
+        "capabilities": []
+      }
+    }
+  }
+}

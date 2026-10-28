@@ -1,0 +1,4 @@
+interface:
+  display_name: "技术方案需求覆盖审查"
+  short_description: "建立需求与方案的证据映射，发现缺项、部分响应和待复核判断。"
+  default_prompt: "使用 $review-solution-coverage 对照需求审查指定方案，逐条给出覆盖判断、理由和证据。"
