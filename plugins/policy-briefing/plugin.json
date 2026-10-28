@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "policy-briefing",
+  "displayName": "专项政策分析与汇报准备",
+  "version": "0.1.0",
+  "description": "围绕指定专题组织政策事实、分析与建议，核对时间范围及原文依据。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "documents",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "专项政策分析与汇报准备",
+        "shortDescription": "围绕指定专题组织政策事实、分析与建议，核对时间范围及原文依据。",
+        "capabilities": []
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "huaxin-workshop-input/1",
+  "group": "G3",
+  "fixture": false,
+  "scope": "",
+  "sources": [
+    {
+      "id": "",
+      "title": "",
+      "version": "",
+      "text": ""
+    }
+  ],
+  "topic": "",
+  "audience": "",
+  "asOf": "",
+  "policies": [
+    {
+      "sourceId": "",
+      "publishedOn": ""
+    }
+  ],
+  "claims": []
+}

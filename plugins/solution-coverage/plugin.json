@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "solution-coverage",
+  "displayName": "技术方案需求覆盖审查",
+  "version": "0.1.0",
+  "description": "建立需求与方案的证据映射，发现缺项、部分响应和待复核判断。",
+  "author": {
+    "name": "华信"
+  },
+  "license": "MIT",
+  "category": "documents",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "技术方案需求覆盖审查",
+        "shortDescription": "建立需求与方案的证据映射，发现缺项、部分响应和待复核判断。",
+        "capabilities": []
+      }
+    }
+  }
+}

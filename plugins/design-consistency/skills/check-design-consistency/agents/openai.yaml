@@ -1,0 +1,4 @@
+interface:
+  display_name: "设计文档一致性核对"
+  short_description: "按明确字段核对两类设计文档，定位差异、缺项与单位冲突。"
+  default_prompt: "使用 $check-design-consistency 核对两类指定文档的字段一致性，列出原文位置与修订动作。"

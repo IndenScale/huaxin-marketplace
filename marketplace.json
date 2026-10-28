@@ -36,6 +36,83 @@
         "name": "华信"
       },
       "source": "./plugins/project-productivity"
+    },
+    {
+      "name": "design-consistency",
+      "displayName": "设计文档一致性核对",
+      "description": "按明确字段核对两类设计文档，定位差异、缺项与单位冲突。",
+      "version": "0.1.0",
+      "category": "engineering",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/design-consistency"
+    },
+    {
+      "name": "solution-coverage",
+      "displayName": "技术方案需求覆盖审查",
+      "description": "建立需求与方案的证据映射，发现缺项、部分响应和待复核判断。",
+      "version": "0.1.0",
+      "category": "documents",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/solution-coverage"
+    },
+    {
+      "name": "policy-briefing",
+      "displayName": "专项政策分析与汇报准备",
+      "description": "围绕指定专题组织政策事实、分析与建议，核对时间范围及原文依据。",
+      "version": "0.1.0",
+      "category": "documents",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/policy-briefing"
+    },
+    {
+      "name": "delivery-readiness",
+      "displayName": "数据中心交付资料齐套检查",
+      "description": "按一个交付阶段的约定清单检查资料、修订与登记状态。",
+      "version": "0.1.0",
+      "category": "engineering",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/delivery-readiness"
+    },
+    {
+      "name": "operating-alerts",
+      "displayName": "经营指标分析与预警",
+      "description": "按明确公式与阈值计算指定经营指标，定位无法计算项和触发预警。",
+      "version": "0.1.0",
+      "category": "data",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/operating-alerts"
+    },
+    {
+      "name": "ledger-updates",
+      "displayName": "综合台账更新预览",
+      "description": "按事项主键整理台账新增与更新建议，保留差异、冲突和字段来源。",
+      "version": "0.1.0",
+      "category": "productivity",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/ledger-updates"
+    },
+    {
+      "name": "hui-form-preparation",
+      "displayName": "慧作业填报准备",
+      "description": "对指定表单建立字段映射，检查必填、类型、枚举和范围，生成确认预览。",
+      "version": "0.1.0",
+      "category": "productivity",
+      "author": {
+        "name": "华信"
+      },
+      "source": "./plugins/hui-form-preparation"
     }
   ]
 }

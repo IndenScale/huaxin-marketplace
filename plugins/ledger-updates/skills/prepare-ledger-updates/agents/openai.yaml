@@ -1,0 +1,4 @@
+interface:
+  display_name: "综合台账更新预览"
+  short_description: "按事项主键整理台账新增与更新建议，保留差异、冲突和字段来源。"
+  default_prompt: "使用 $prepare-ledger-updates 整理指定台账的更新建议，逐字段显示前后变化与待确认冲突。"

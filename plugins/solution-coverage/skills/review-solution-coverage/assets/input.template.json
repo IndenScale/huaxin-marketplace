@@ -1,0 +1,27 @@
+{
+  "schema": "huaxin-workshop-input/1",
+  "group": "G2",
+  "fixture": false,
+  "scope": "",
+  "sources": [
+    {
+      "id": "",
+      "title": "",
+      "version": "",
+      "text": ""
+    }
+  ],
+  "requirements": [
+    {
+      "id": "",
+      "text": "",
+      "evidence": {
+        "sourceId": "",
+        "start": 0,
+        "locator": "",
+        "quote": ""
+      }
+    }
+  ],
+  "coverage": []
+}

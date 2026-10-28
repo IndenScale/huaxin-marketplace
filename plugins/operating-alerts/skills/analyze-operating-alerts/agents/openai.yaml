@@ -1,0 +1,4 @@
+interface:
+  display_name: "经营指标分析与预警"
+  short_description: "按明确公式与阈值计算指定经营指标，定位无法计算项和触发预警。"
+  default_prompt: "使用 $analyze-operating-alerts 按已确认指标口径与阈值分析指定数据，保留计算和预警依据。"
